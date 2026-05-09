@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="32" fill="#1e2730"/>
+  <circle cx="32" cy="32" r="32" fill="none" stroke="#2a5c40" stroke-width="2"/>
+  <text x="32" y="42" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#52b87a" text-anchor="middle">FA</text>
+  <line x1="32" y1="4" x2="32" y2="16" stroke="#3d8b5f" stroke-width="2"/>
+  <ellipse cx="32" cy="4" rx="4" ry="6" fill="#3d8b5f"/>
+  <ellipse cx="25" cy="9" rx="6" ry="3" fill="#2a5c40" transform="rotate(-40,25,9)"/>
+  <ellipse cx="39" cy="9" rx="6" ry="3" fill="#2a5c40" transform="rotate(40,39,9)"/>
+</svg>
